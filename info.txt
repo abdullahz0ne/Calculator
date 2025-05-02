@@ -1,2 +1,2 @@
 Console.WriteLine("Abdullah");
-Console.WriteLine("24-ST-021");
+Console.WriteLine("24-St-021");
